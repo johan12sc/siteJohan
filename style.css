@@ -505,6 +505,9 @@ footer {
   header {
     padding: 1.5rem;
   }
+  .box-date{
+    display: none;
+  }
 
   .nav {
     flex-direction: column;
